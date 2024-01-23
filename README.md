@@ -21,7 +21,7 @@ Screenshots
 ![Calculator Screenshot 1](SS1.png)
 *Description: Desktop view*
 
-<img src="SS2.jpg" alt="Calculator Screenshot 2" height="300">
+<img src="SS2.jpg" alt="Calculator Screenshot 2" height="500">
 *Description: mobile view*
 
 How to Use
