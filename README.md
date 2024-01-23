@@ -15,6 +15,14 @@ Features
 -   Delete (DEL) button to remove the last entered digit
 -   Stylish and responsive design with a hover effect for better user experience
 
+Screenshots
+-----------
+
+![Calculator Screenshot 1](SS1.png)
+*Description: Desktop view*
+
+![Calculator Screenshot 2](SS2.jpg)
+*Description: mobile view*
 
 How to Use
 ----------
